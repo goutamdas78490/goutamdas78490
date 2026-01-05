@@ -1,5 +1,24 @@
-# 👋 Hi, I’m Goutam Das
-💫 Tech-Focused <br><br>💻 Full Stack Developer<br>☕ Java | 🌱 Spring Boot | ⚛️ Angular | ⚛️ React<br>🧠 Top 100 GFG Competitive Coding<br>🚀 Building scalable web apps
+# 💫 Hi👋, I’m Goutam Das
+A passionate Full Stack Developer || Java & Spring Boot || Angular & React || From India 🇮🇳 
+
+Email Me 👉 ✉️ goutamdas78490@gmail.com
+ for collaboration, projects, or anything tech-related 😊
+
+🔭 I’m currently working on: Full-stack web applications and personal projects
+
+🌱 I’m currently learning: Advanced Spring Boot, System Design, advance devops and Cloud fundamentals
+
+👯 I’m looking to collaborate on: Open-source projects and real-world web applications
+
+🤔 I’m looking for help with: System design and scalable backend architectures
+
+💬 Ask me about: Java, Spring Boot, Angular, React, REST APIs, and DSA
+
+📫 How to reach me: goutamdas78490@gmail.com
+
+😄 Pronouns: omm / Goutam
+
+⚡ Fun fact: I enjoy solving coding problems and turning ideas into working applications 💻✨
 
 
 ## 🌐 Socials:
