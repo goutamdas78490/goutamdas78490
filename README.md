@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 # 💫 Hi👋, I’m Goutam Das
 A passionate Full Stack Developer || Java & Spring Boot || Angular & React || From India 🇮🇳 
 
